@@ -19,16 +19,9 @@ namespace Quantum.QsharpTopScoringPair
     {
         static void Main(string[] args)
         {
-            /* using (var sim = new QuantumSimulator())
-             {
-                 var res = HelloQ1.Run(sim, 20, 10).Result;
-                 Console.WriteLine(res);
-             }
-             Console.WriteLine("Press any key to continue...");
-             Console.ReadKey();*/
             Console.Out.WriteLine("testing c sharp and q sharp");
             var sim = new QuantumSimulator();
-            var res = HelloQ1.Run(sim).Result;
+            var res = SampleRandomNumber.Run(sim).Result;
             Console.WriteLine(res);
             
             Console.WriteLine("Press any key to continue...");

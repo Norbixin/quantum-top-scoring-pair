@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spXSTUo0I6DdVG9xhpJxMFuDID5jc+DUf9Drq35xSu/j7HWHKTrVcSYfzDCi9HS4uRUIVjVMA0t8jUy4vm7mRw==",
+  "dgSpecHash": "cLStzD8FKIU8lIWwtBujfOIkKNiAe/1mwNloC7K59NA3vfQLDmNK9ZvBR/EHwMK4lQg+hjPuYWb0juRiEboi4g==",
   "success": true,
-  "projectFilePath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
+  "projectFilePath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

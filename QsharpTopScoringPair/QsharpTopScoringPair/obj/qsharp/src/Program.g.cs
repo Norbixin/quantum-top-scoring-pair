@@ -14,13 +14,224 @@ using Microsoft.Quantum.Intrinsic;
 using Microsoft.Quantum.Intrinsic.Interfaces;
 using Microsoft.Quantum.Simulation.Core;
 
-[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"HelloQ1\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt4\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":9,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
-[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"HelloQ1\"},\"Attributes\":[],\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt4\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":9,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleQuantumRandomNumberGenerator\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":13,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":45}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Result\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleQuantumRandomNumberGenerator\"},\"Attributes\":[],\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":13,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":45}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleRandomNumberInRange\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":23,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":36}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[{\"Case\":\"QsTupleItem\",\"Fields\":[{\"VariableName\":{\"Case\":\"ValidName\",\"Fields\":[\"max\"]},\"Type\":{\"Case\":\"Int\"},\"InferredInformation\":{\"IsMutable\":false,\"HasLocalQuantumDependency\":false},\"Position\":{\"Case\":\"Null\"},\"Range\":{\"Item1\":{\"Line\":1,\"Column\":37},\"Item2\":{\"Line\":1,\"Column\":40}}}]}]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"Int\"},\"ReturnType\":{\"Case\":\"Int\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleRandomNumberInRange\"},\"Attributes\":[],\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":23,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":36}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":36,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Int\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"SampleRandomNumber\"},\"Attributes\":[],\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":36,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":29}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"HelloQ1\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":45,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"Result\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Quantum.QsharpTopScoringPair\",\"Name\":\"HelloQ1\"},\"Attributes\":[],\"SourceFile\":\"D:\\\\nauka\\\\tylkoStudia\\\\magisterium2\\\\zaawansowana_inzynieria_oprogramowania\\\\projekt6\\\\quantum-top-scoring-pair\\\\QsharpTopScoringPair\\\\QsharpTopScoringPair\\\\Program.qs\",\"Position\":{\"Item1\":45,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":18}},\"Documentation\":[]}")]
 #line hidden
 namespace Quantum.QsharpTopScoringPair
 {
-    [SourceLocation("D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs", OperationFunctor.Body, 10, -1)]
-    public partial class HelloQ1 : Operation<QVoid, QVoid>, ICallable
+    [SourceLocation("D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs", OperationFunctor.Body, 14, 24)]
+    public partial class SampleQuantumRandomNumberGenerator : Operation<QVoid, Result>, ICallable
+    {
+        public SampleQuantumRandomNumberGenerator(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "SampleQuantumRandomNumberGenerator";
+        String ICallable.FullName => "Quantum.QsharpTopScoringPair.SampleQuantumRandomNumberGenerator";
+        protected Allocate Allocate__
+        {
+            get;
+            set;
+        }
+
+        protected Release Release__
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__H
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, Result> Microsoft__Quantum__Intrinsic__M
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, Result> __Body__ => (__in__) =>
+        {
+#line hidden
+            {
+#line 16 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                var q = Allocate__.Apply();
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 18 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__H.Apply(q);
+#line 21 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                    return Microsoft__Quantum__Intrinsic__M.Apply(q);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release__.Apply(q);
+                    }
+                }
+            }
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Allocate__ = this.__Factory__.Get<Allocate>(typeof(global::Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release__ = this.__Factory__.Get<Release>(typeof(global::Microsoft.Quantum.Intrinsic.Release));
+            this.Microsoft__Quantum__Intrinsic__H = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.H));
+            this.Microsoft__Quantum__Intrinsic__M = this.__Factory__.Get<ICallable<Qubit, Result>>(typeof(global::Microsoft.Quantum.Intrinsic.M));
+        }
+
+        public override IApplyData __DataIn__(QVoid data) => data;
+        public override IApplyData __DataOut__(Result data) => new QTuple<Result>(data);
+        public static System.Threading.Tasks.Task<Result> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<SampleQuantumRandomNumberGenerator, QVoid, Result>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs", OperationFunctor.Body, 24, 37)]
+    public partial class SampleRandomNumberInRange : Operation<Int64, Int64>, ICallable
+    {
+        public SampleRandomNumberInRange(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "SampleRandomNumberInRange";
+        String ICallable.FullName => "Quantum.QsharpTopScoringPair.SampleRandomNumberInRange";
+        protected ICallable<Int64, Int64> Microsoft__Quantum__Math__BitSizeI
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<QVoid, Result> SampleQuantumRandomNumberGenerator__
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<IQArray<Result>, Int64> Microsoft__Quantum__Convert__ResultArrayAsInt
+        {
+            get;
+            set;
+        }
+
+        public override Func<Int64, Int64> __Body__ => (__in__) =>
+        {
+            var max = __in__;
+#line 25 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            var output = 0L;
+#line 26 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            while (true)
+            {
+#line 27 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                var bits = new QArray<Result>();
+#line 28 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                foreach (var idxBit in new QRange(1L, Microsoft__Quantum__Math__BitSizeI.Apply(max)))
+#line hidden
+                {
+#line 29 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                    bits = QArray<Result>.Add(bits, new QArray<Result>(SampleQuantumRandomNumberGenerator__.Apply(QVoid.Instance)));
+                }
+
+#line 31 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                output = Microsoft__Quantum__Convert__ResultArrayAsInt.Apply(bits?.Copy());
+                if ((output <= max))
+                {
+                    break;
+                }
+                else
+                {
+                }
+            }
+
+#line 33 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            return output;
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Microsoft__Quantum__Math__BitSizeI = this.__Factory__.Get<ICallable<Int64, Int64>>(typeof(global::Microsoft.Quantum.Math.BitSizeI));
+            this.SampleQuantumRandomNumberGenerator__ = this.__Factory__.Get<ICallable<QVoid, Result>>(typeof(SampleQuantumRandomNumberGenerator));
+            this.Microsoft__Quantum__Convert__ResultArrayAsInt = this.__Factory__.Get<ICallable<IQArray<Result>, Int64>>(typeof(global::Microsoft.Quantum.Convert.ResultArrayAsInt));
+        }
+
+        public override IApplyData __DataIn__(Int64 data) => new QTuple<Int64>(data);
+        public override IApplyData __DataOut__(Int64 data) => new QTuple<Int64>(data);
+        public static System.Threading.Tasks.Task<Int64> Run(IOperationFactory __m__, Int64 max)
+        {
+            return __m__.Run<SampleRandomNumberInRange, Int64, Int64>(max);
+        }
+    }
+
+    [SourceLocation("D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs", OperationFunctor.Body, 37, 46)]
+    public partial class SampleRandomNumber : Operation<QVoid, Int64>, ICallable
+    {
+        public SampleRandomNumber(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "SampleRandomNumber";
+        String ICallable.FullName => "Quantum.QsharpTopScoringPair.SampleRandomNumber";
+        protected ICallable<String, QVoid> Message__
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Int64, Int64> SampleRandomNumberInRange__
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, Int64> __Body__ => (__in__) =>
+        {
+#line 38 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            var max = 50L;
+#line 39 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            Message__.Apply(String.Format("Sampling a random number between 0 and {0}: ", max));
+#line 40 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            return SampleRandomNumberInRange__.Apply(max);
+        }
+
+        ;
+        public override void __Init__()
+        {
+            this.Message__ = this.__Factory__.Get<ICallable<String, QVoid>>(typeof(global::Microsoft.Quantum.Intrinsic.Message));
+            this.SampleRandomNumberInRange__ = this.__Factory__.Get<ICallable<Int64, Int64>>(typeof(SampleRandomNumberInRange));
+        }
+
+        public override IApplyData __DataIn__(QVoid data) => data;
+        public override IApplyData __DataOut__(Int64 data) => new QTuple<Int64>(data);
+        public static System.Threading.Tasks.Task<Int64> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<SampleRandomNumber, QVoid, Int64>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs", OperationFunctor.Body, 46, -1)]
+    public partial class HelloQ1 : Operation<QVoid, Result>, ICallable
     {
         public HelloQ1(IOperationFactory m) : base(m)
         {
@@ -34,25 +245,80 @@ namespace Quantum.QsharpTopScoringPair
             set;
         }
 
-        public override Func<QVoid, QVoid> __Body__ => (__in__) =>
+        protected Allocate Allocate__
         {
-#line 11 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+            get;
+            set;
+        }
+
+        protected Release Release__
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> Microsoft__Quantum__Intrinsic__H
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, Result> Microsoft__Quantum__Intrinsic__M
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, Result> __Body__ => (__in__) =>
+        {
+#line 47 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
             Message__.Apply("Hello quantum world!");
 #line hidden
-            return QVoid.Instance;
+            {
+#line 48 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                var q = Allocate__.Apply();
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 49 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                    Microsoft__Quantum__Intrinsic__H.Apply(q);
+#line 50 "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\Program.qs"
+                    return Microsoft__Quantum__Intrinsic__M.Apply(q);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release__.Apply(q);
+                    }
+                }
+            }
         }
 
         ;
         public override void __Init__()
         {
             this.Message__ = this.__Factory__.Get<ICallable<String, QVoid>>(typeof(global::Microsoft.Quantum.Intrinsic.Message));
+            this.Allocate__ = this.__Factory__.Get<Allocate>(typeof(global::Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release__ = this.__Factory__.Get<Release>(typeof(global::Microsoft.Quantum.Intrinsic.Release));
+            this.Microsoft__Quantum__Intrinsic__H = this.__Factory__.Get<IUnitary<Qubit>>(typeof(global::Microsoft.Quantum.Intrinsic.H));
+            this.Microsoft__Quantum__Intrinsic__M = this.__Factory__.Get<ICallable<Qubit, Result>>(typeof(global::Microsoft.Quantum.Intrinsic.M));
         }
 
         public override IApplyData __DataIn__(QVoid data) => data;
-        public override IApplyData __DataOut__(QVoid data) => data;
-        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
+        public override IApplyData __DataOut__(Result data) => new QTuple<Result>(data);
+        public static System.Threading.Tasks.Task<Result> Run(IOperationFactory __m__)
         {
-            return __m__.Run<HelloQ1, QVoid, QVoid>(QVoid.Instance);
+            return __m__.Run<HelloQ1, QVoid, Result>(QVoid.Instance);
         }
     }
 }

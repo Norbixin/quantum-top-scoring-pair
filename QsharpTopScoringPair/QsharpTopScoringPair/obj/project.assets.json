@@ -7457,11 +7457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
+      "projectUniqueName": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
       "projectName": "QsharpTopScoringPair",
-      "projectPath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
+      "projectPath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\QsharpTopScoringPair.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt4\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\obj\\",
+      "outputPath": "D:\\nauka\\tylkoStudia\\magisterium2\\zaawansowana_inzynieria_oprogramowania\\projekt6\\quantum-top-scoring-pair\\QsharpTopScoringPair\\QsharpTopScoringPair\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

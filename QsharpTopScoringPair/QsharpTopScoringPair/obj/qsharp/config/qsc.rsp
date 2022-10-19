@@ -1,10 +1,10 @@
 --proj
-    "D:\nauka\tylkoStudia\magisterium2\zaawansowana_inzynieria_oprogramowania\projekt4\quantum-top-scoring-pair\QsharpTopScoringPair\QsharpTopScoringPair\QsharpTopScoringPair"
+    "D:\nauka\tylkoStudia\magisterium2\zaawansowana_inzynieria_oprogramowania\projekt6\quantum-top-scoring-pair\QsharpTopScoringPair\QsharpTopScoringPair\QsharpTopScoringPair"
 --build-exe
 --input
-    "D:\nauka\tylkoStudia\magisterium2\zaawansowana_inzynieria_oprogramowania\projekt4\quantum-top-scoring-pair\QsharpTopScoringPair\QsharpTopScoringPair\Program.qs"
+    "D:\nauka\tylkoStudia\magisterium2\zaawansowana_inzynieria_oprogramowania\projekt6\quantum-top-scoring-pair\QsharpTopScoringPair\QsharpTopScoringPair\Program.qs"
 --output
-    "D:/nauka/tylkoStudia/magisterium2/zaawansowana_inzynieria_oprogramowania/projekt4/quantum-top-scoring-pair/QsharpTopScoringPair/QsharpTopScoringPair/obj/qsharp/"
+    "D:/nauka/tylkoStudia/magisterium2/zaawansowana_inzynieria_oprogramowania/projekt6/quantum-top-scoring-pair/QsharpTopScoringPair/QsharpTopScoringPair/obj/qsharp/"
 --references
     "C:\Users\User\.nuget\packages\azure.core\1.25.0\lib\net5.0\Azure.Core.dll"
     "C:\Users\User\.nuget\packages\azure.identity\1.5.0\lib\netstandard2.0\Azure.Identity.dll"
@@ -42,7 +42,7 @@
     FullComputation
 --skip-monomorphization
 --package-load-fallback-folders
-    "D:/nauka/tylkoStudia/magisterium2/zaawansowana_inzynieria_oprogramowania/projekt4/quantum-top-scoring-pair/QsharpTopScoringPair/QsharpTopScoringPair/bin/Debug/net6.0/"
+    "D:/nauka/tylkoStudia/magisterium2/zaawansowana_inzynieria_oprogramowania/projekt6/quantum-top-scoring-pair/QsharpTopScoringPair/QsharpTopScoringPair/bin/Debug/net6.0/"
 --assembly-properties
     DocsPackageId:QsharpTopScoringPair
     ExecutionTarget:Any
